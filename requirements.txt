@@ -1,0 +1,32 @@
+# Core chatbot dependencies
+openai>=1.0.0
+python-dotenv>=1.0.0
+streamlit>=1.28.0
+gradio>=4.0.0
+
+# Natural language processing
+nltk>=3.8
+spacy>=3.7.0
+
+# Data handling
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Web framework (optional)
+flask>=2.3.0
+fastapi>=0.100.0
+uvicorn>=0.23.0
+
+# Database (optional)
+sqlalchemy>=2.0.0
+
+# Utilities
+requests>=2.31.0
+python-multipart>=0.0.6
+
+# LangChain and Document Processing
+langchain>=0.3.0
+pinecone>=6.0.0
+unstructured>=0.18.0
+pypdf>=6.0.0
+python-docx>=1.2.0
